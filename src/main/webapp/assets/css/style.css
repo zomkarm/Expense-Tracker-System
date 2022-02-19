@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+	background-color: gray;
+}
+
+.center{
+	text-align:center;	
+}
+
+.fakeimg {
+	height: 200px;
+	background: white;
+}
